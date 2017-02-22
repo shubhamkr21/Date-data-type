@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1456921921 source:d:\assignment\date\main.cpp
+	"Date.h"
+
+1457246078 d:\assignment\date\include\date.h
+	<iostream>
+	<exception>
+	<string.h>
+	<cstring>
+	<math.h>
+	<ctime>
+	<stdexcept>
+
+1457270607 source:d:\assignment\date\src\date.cpp
+	"Date.h"
+	<string>
+	<cstdlib>
+	<stdlib.h>
+
+1457273743 source:d:\assignment\date\testdate.cpp
+	<Date.h>
+
+1456829338 d:\assignment\date\test.h
+
